@@ -1,0 +1,5 @@
+outs:
+- md5: 9410c3c73bcecf21b9f30a95e4e825ee
+  size: 115388
+  hash: md5
+  path: engine1_risk_pipeline.joblib
