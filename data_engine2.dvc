@@ -1,0 +1,6 @@
+outs:
+- md5: 43c40e4ad736f1deb04a136016f2e583.dir
+  size: 92025108
+  nfiles: 7
+  hash: md5
+  path: data_engine2
