@@ -1,0 +1,5 @@
+outs:
+- md5: 86c84b6a703e40b0fb1019fb6d380c34
+  size: 2195344598
+  hash: md5
+  path: engine2_triage_pipeline.joblib
